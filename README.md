@@ -7,9 +7,8 @@
 
 ### 🚀 Sobre mim
 *   🎓 **Formação:** Cursando Ciência da Computação.
-*   🛠 **Stack Técnica:** Java, SQL, JavaScript (React.js, Next.js, Node.js).
 *   💼 **Experiência:** Foco em desenvolvimento de sistemas e suporte, com passagem pela General Motors.
-*   🎯 **Interesses:** Metodologias Ágeis (Scrum/Kanban), design industrial e automação.
+*   🎯 **Interesses:** Desenvolvimento Full Stack, Banco de Dados, design industrial e automação.
 
 ---
 
@@ -30,8 +29,7 @@
 
 ### 🛠 Minhas Tecnologias
 <div align="center">
-
-<div align="left">
+  <div align="left">
   
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -68,9 +66,10 @@
 
   <!-- Framework -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </div>
+</div>
 
-  </div>
-  </div>
+---
 
 ### 📬 Vamos nos conectar?
 <div align="center">
