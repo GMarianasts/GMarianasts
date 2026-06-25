@@ -77,6 +77,12 @@ Desenvolvedora orientada a resultados, com base técnica sólida construída em 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
 
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/GMarianasts/GMarianasts/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 🌐 Conecte-se comigo
 <div align="center">
   <a href="https://www.linkedin.com/in/mariana-g-santos-75145130a">
@@ -86,17 +92,6 @@ Desenvolvedora orientada a resultados, com base técnica sólida construída em 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GMarianasts/GMarianasts/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GMarianasts/GMarianasts/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GMarianasts/GMarianasts/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
 
 
 
