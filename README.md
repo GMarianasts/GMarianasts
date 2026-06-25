@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Mariana Santos 👋</h1>
-  <p><b>Desenvolvedora Full Stack | Especialista em Automação e Banco de Dados</b></p>
+  <p><b>Desenvolvedora Full Stack | Com domínio em Automação e Banco de Dados</b></p>
   <p>Construindo soluções escaláveis e otimizando fluxos operacionais através de código.</p>
 </div>
 
