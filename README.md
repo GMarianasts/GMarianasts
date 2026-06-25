@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, mundo! Eu sou a Mariana 👋</h1>
+  <h1>Olá! Eu sou a Mariana 👋</h1>
   <p>Estudante de Ciência da Computação e apaixonada por transformar ideias em soluções tecnológicas.</p>
 </div>
 
