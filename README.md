@@ -1,31 +1,37 @@
 <div align="center">
-  <h1>Olá! Eu sou a Mariana 👋</h1>
-  <p>Estudante de Ciência da Computação e apaixonada por transformar ideias em soluções tecnológicas.</p>
+  <h1 align="center">Mariana Santos 👋</h1>
+  <p><b>Desenvolvedora Full Stack | Especialista em Automação e Banco de Dados</b></p>
+  <p>Construindo soluções escaláveis e otimizando fluxos operacionais através de código.</p>
 </div>
 
 ---
 
-### 🚀 Sobre mim
-*   🎓 **Formação:** Cursando Ciência da Computação.
-*   💼 **Experiência:** Foco em desenvolvimento de sistemas e suporte, com passagem pela General Motors.
-*   🎯 **Interesses:** Desenvolvimento Full Stack, Banco de Dados, design industrial e automação.
+### 🏛 Perfil Profissional
+Desenvolvedora orientada a resultados, com base técnica sólida construída em multinacional e formação acadêmica especializada. Minha atuação foca na criação de aplicações **Full Stack** de alta performance, modelagem de **bancos de dados** robustos e a implementação de **automação de processos** para elevar a eficiência operacional.
 
 ---
 
-### 📊 Estatísticas
-<!-- Tabela para colocar as estatísticas lado a lado -->
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=GMarianasts&show_icons=true&theme=dark" />
+    <td width="50%" valign="top">
+      <h3>💻 Full Stack Development</h3>
+      <ul>
+        <li><b>Front-end:</b> React, Next.js, TypeScript e design responsivo.</li>
+        <li><b>Back-end:</b> Java, Node.js e Express para APIs resilientes.</li>
+        <li><b>Infra:</b> AWS, Docker e práticas de Cloud.</li>
+      </ul>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarianasts&layout=compact&theme=dark" />
+    <td width="50%" valign="top">
+      <h3>⚙️ Dados & Automação</h3>
+      <ul>
+        <li><b>Banco de Dados:</b> Modelagem avançada, SQL (MySQL) e NoSQL (MongoDB).</li>
+        <li><b>Automação:</b> Otimização de rotinas, integração de sistemas e melhoria de processos industriais.</li>
+        <li><b>Metodologia:</b> Scrum/Kanban e foco em padronização (5S/Lean).</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
 
 ### 🛠 Minhas Tecnologias
 <div align="center">
@@ -71,9 +77,20 @@
 
 ---
 
-### 📬 Vamos nos conectar?
+### 📈 Métricas de Performance
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GMarianasts&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMarianasts&layout=compact&theme=transparent&hide_border=true" />
+</div>
+
+---
+
+### 🌐 Conecte-se comigo
 <div align="center">
   <a href="https://www.linkedin.com/in/mariana-g-santos-75145130a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
