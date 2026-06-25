@@ -30,7 +30,6 @@
 
 ### 🛠 Minhas Tecnologias
 <div align="center">
-  ### 🛠 Minhas Tecnologias
 
 <div align="left">
   
@@ -69,8 +68,6 @@
 
   <!-- Framework -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
-</div>
 
 ### 📬 Vamos nos conectar?
 <div align="center">
