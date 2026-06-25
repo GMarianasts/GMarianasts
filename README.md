@@ -30,7 +30,7 @@ Desenvolvedora orientada a resultados, com base técnica sólida construída em 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio" />
 </div>
 
-<br><br>
+---
 
 <table width="100%">
   <tr>
