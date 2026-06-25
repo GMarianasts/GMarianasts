@@ -69,6 +69,9 @@
   <!-- Framework -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
+  </div>
+  </div>
+
 ### 📬 Vamos nos conectar?
 <div align="center">
   <a href="https://www.linkedin.com/in/mariana-g-santos-75145130a">
